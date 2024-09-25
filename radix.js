@@ -42,3 +42,4 @@ radixTree.insert("app");
 console.log(radixTree.search("apple")); // true
 console.log(radixTree.search("app"));   // true
 console.log(radixTree.search("appl"));  // false
+
